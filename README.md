@@ -1,4 +1,5 @@
 # SudokuSolverGUI
+Simple project to learn PyQt5 by creating a GUI for sudoku solver
 
 # Usage
 ```
